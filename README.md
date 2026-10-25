@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Boas-vindas ao meu perfil no GitHub
 
-<!--
-**mulher-amparada/mulher-amparada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor independente de 15 anos e autista laudado nível1, aprendendo e criando projetos de forma autodidata, sem formação profissional em programação e com o apoio de inteligência artificial (ChatGPT).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://mulher-amparada.github.io/mulher-amparada-app/user1.png" width="250">
+</div>
+
+<div align="center">
+  <img src="https://mulher-amparada.github.io/mulher-amparada-app/title.png">
+</div>
+
+Um projeto gratuito e livre de anúncios que reúne recursos de proteção, segurança e organização em um único aplicativo, além de manter documentação pública sobre diferentes aspectos do projeto. 
+
+Construído por meio de aprendizado contínuo, testes, documentação e evolução constante.
+
+---
+
+🔗 **Links do Projeto:**
+
+- 💻 **Repositório no GitHub:** [github.com/mulher-amparada/mulher-amparada-app](https://github.com/mulher-amparada/mulher-amparada-app)
+
+- 🌐 **Site Oficial:** [mulher-amparada.github.io/mulher-amparada-app](https://mulher-amparada.github.io/mulher-amparada-app/)
